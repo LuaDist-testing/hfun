@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "hfun"
-version = "0.2.1-1"
+version = "0.2.1-2"
 -- LuaDist source
 source = {
-  tag = "0.2.1-1",
+  tag = "0.2.1-2",
   url = "git://github.com/LuaDist-testing/hfun.git"
 }
 -- Original source
